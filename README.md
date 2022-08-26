@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Gabriel** AKA: @Gaby-Concepcion
-- 👀 I’m interested in **Machine Learning, AI development, and Networking systems
+- 👀 I’m interested in **Machine Learning, AI development, and Networking systems**
 - 🌱 I’m currently learning **C++**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
