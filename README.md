@@ -1,8 +1,7 @@
 - 👋 Hi, I’m **Gabriel** AKA: @Gaby-Concepcion
 - 👀 I’m interested in **Machine Learning, AI development, and Networking systems**
-- 🌱 I’m currently learning **C++**
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning **JAVA**
+- 📫 How to reach me "Gabriel.concepcion1@upr.edu"
 
 <!---
 Gaby-Concepcion/Gaby-Concepcion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
