@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **Gabriel** AKA: @Gaby-Concepcion
 - 👀 I’m interested in **Machine Learning, AI development, and Networking systems**
-- 🌱 I’m currently learning **JAVA**
 - 📫 How to reach me "Gabriel.concepcion1@upr.edu"
 
 <!---
